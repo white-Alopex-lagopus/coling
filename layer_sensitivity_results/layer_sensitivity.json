@@ -1,0 +1,236 @@
+{
+  "config": {
+    "model": "../model/Qwen3-1.7B-base",
+    "num_samples": 50,
+    "seq_len": 512,
+    "compressed_len": 64,
+    "compress_k": true,
+    "compress_v": true
+  },
+  "layers": [
+    {
+      "layer": 0,
+      "cosine_mean": 0.9440742933750152,
+      "cosine_std": 0.015791802208402473,
+      "relative_error_mean": 0.2536017167568207,
+      "relative_error_std": 0.03343901275950242,
+      "num_samples": 50
+    },
+    {
+      "layer": 1,
+      "cosine_mean": 0.8906478238105774,
+      "cosine_std": 0.01490231784953852,
+      "relative_error_mean": 0.3842037618160248,
+      "relative_error_std": 0.029737976924884522,
+      "num_samples": 50
+    },
+    {
+      "layer": 2,
+      "cosine_mean": 0.6274196594953537,
+      "cosine_std": 0.12347980299821679,
+      "relative_error_mean": 0.9449149537086486,
+      "relative_error_std": 0.0418356452371744,
+      "num_samples": 50
+    },
+    {
+      "layer": 3,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 4,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 5,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 6,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 7,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 8,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 9,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 10,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 11,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 12,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 13,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 14,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 15,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 16,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 17,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 18,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 19,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 20,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 21,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 22,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 23,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 24,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 25,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 26,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    },
+    {
+      "layer": 27,
+      "cosine_mean": NaN,
+      "cosine_std": NaN,
+      "relative_error_mean": NaN,
+      "relative_error_std": NaN,
+      "num_samples": 50
+    }
+  ]
+}
